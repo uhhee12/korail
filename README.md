@@ -5,18 +5,14 @@
    
    
 22년도 진행 프로잭트   
-   
   (디지털교과서-과학 - 20p) 참여도 80% 작업기간 1달   
   https://uhhee12.github.io/digital_textbook/page111.xhtml   
   https://uhhee12.github.io/digital_textbook/page118.xhtml   
   https://uhhee12.github.io/digital_textbook/page119.xhtml   
-   
   (xd 관리자-63p) 참여도 100% 작업기간 2달    
   https://uhhee12.github.io/xenDesk_admin/   
-     
   (숭실대 에스스타-78p) 참여도 100% 작업기간 2달   
   https://uhhee12.github.io/ssu/   
-     
   코레일 프로잭트 참여 기간 1년   
      
      

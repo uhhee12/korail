@@ -26,7 +26,7 @@
   (앱스하우스-63p) 참여도 100%   
   https://uhhee12.github.io/appshouse/    
   (알파카 관리자-63) 참여도 100% 반응형 x   
-  https://uhhee12.github.io/Alpaca/index.html/   
+  [https://uhhee12.github.io/Alpaca/   
   (인큐랩 관리자-14p) 참여도 100% 반응형 x   
   https://uhhee12.github.io/inculab/admin/    
   (몰아줌 관리자-9p) 참여도 100% 반응형 x   

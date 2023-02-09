@@ -15,6 +15,7 @@
   https://uhhee12.github.io/ssu/   
   코레일 프로잭트 참여 기간 1년   
   승차권 28메뉴, 기차여행 33메뉴, 다국어 18메뉴 작업진행   
+  이미지 경로 https://github.com/uhhee12/korail
   
      
      

@@ -5,7 +5,7 @@
 
 23년도 진행 프로잭트  
 (국가과학기술인력개발원)  
-https://gravity33.cafe24.com/kird/letter_vol131.htm  
+https://gravity33.cafe24.com/kird/letter_vol131.html
    
    
 22년도 진행 프로잭트   

@@ -5,8 +5,7 @@
 
 23년도 진행 프로잭트  
 (국가과학기술인력개발원)  
-https://gravity33.cafe24.com/kird/letter_vol131.html
-   
+ https://www.kird.re.kr/communication/newsletter/old?year=
    
 22년도 진행 프로잭트   
   (디지털교과서-과학 - 20p) 참여도 80% 작업기간 1달   

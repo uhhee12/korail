@@ -14,7 +14,8 @@
   https://uhhee12.github.io/digital_textbook/page119.xhtml   
   (xd 관리자-63p) 참여도 100% 작업기간 2달    
   https://uhhee12.github.io/xenDesk_admin/   
-  (숭실대 에스스타-78p) 참여도 100% 작업기간 2달   
+  (숭실대 에스스타-78p) 참여도 100% 작업기간 2달  
+  http://ssustar.com/
   https://uhhee12.github.io/ssu/   
   코레일 프로잭트 참여 기간 1년   
   승차권 28메뉴, 기차여행 33메뉴, 다국어 18메뉴 작업진행   
